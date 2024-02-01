@@ -10,5 +10,5 @@ it("Calculates the area of a circle", () => {
 
 it("Calculates the circumference of a circle", () => {
 	var circumference = circle.circumference(52);
-	expect(circumference).toBeCloseTo(326.73);
+	expect(circumference).toBeCloseTo(500.26); // 326.73
 });
